@@ -24,12 +24,12 @@ You can clone this repository, compile using Eclipse and the pom.xml included, a
 
 The initial status is as follows:
 
-<img src="/assets/1.png" width=80% height=80%> 
+<img src="src/main/assets/1.png" width=80% height=80%> 
 
 After entering a 4 bits binary sequence, the hamming code codified value is displayed:
 
-<img src="/assets/2.png" width=80% height=80%> 
+<img src="src/main/assets/2.png" width=80% height=80%> 
 
 If an invalid value is entered, an error message is displayed:
 
-<img src="/assets/3.png" width=80% height=80%> 
+<img src="src/main/assets/3.png" width=80% height=80%> 
